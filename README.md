@@ -1,7 +1,6 @@
 [![Travis Status](https://travis-ci.org/kollegienet/netbox-prometheus-sd.svg?branch=master)](https://travis-ci.org/kollegienet/netbox-prometheus-sd)
 
-Introduction
-------------
+# Introduction
 
 Service discovery for [Prometheus](https://prometheus.io/) using devices from [Netbox](https://github.com/digitalocean/netbox).
 
