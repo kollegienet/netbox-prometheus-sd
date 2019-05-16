@@ -13,7 +13,7 @@ This project is released under MIT license, copyright 2018 ENIX SAS.
 Feel free to contribute to this project through Github pull-requests. We also
 accept well formatted git patches sent by email to the maintainer.
 
-Current Maintainer: Antoine Millet <antoine.millet __at__ enix.io>
+Current Maintainer: Foreningen Kollegienet Odense <noc __at__ kollegienet.dk>
 
 # Requirement
 
